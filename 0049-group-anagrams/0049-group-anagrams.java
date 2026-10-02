@@ -2,31 +2,25 @@ import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        if (strs == null || strs.length == 0) {
-            return new ArrayList<>();
-        }
-        
-        Map<String, List<String>> map = new HashMap<>();
-        
+        Map<String, List<String>> map = new HashMap<>(strs.length * 2);
+        int[] count = new int[26];
+
         for (String s : strs) {
-            // Count frequency of each character (a-z)
-            int[] count = new int[26];
-            for (char c : s.toCharArray()) {
-                count[c - 'a']++;
+            Arrays.fill(count, 0);
+            for (int i = 0, n = s.length(); i < n; i++) {
+                count[s.charAt(i) - 'a']++;
             }
-            
-            // Build a unique key from the frequency array (e.g., "#1#0#0#...")
+
+            // Compact key: only chars that appear, e.g. "a1b2z1"
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < 26; i++) {
-                sb.append('#').append(count[i]);
+                if (count[i] != 0) {
+                    sb.append((char) ('a' + i)).append(count[i]);
+                }
             }
-            String key = sb.toString();
-            
-            // Group the string by its frequency key
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(s);
+
+            map.computeIfAbsent(sb.toString(), k -> new ArrayList<>()).add(s);
         }
-        
         return new ArrayList<>(map.values());
     }
 }
