@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
+| [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
+| [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
