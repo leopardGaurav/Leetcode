@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/leopardGaurav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/leopardGaurav/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/leopardGaurav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/leopardGaurav/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/leopardGaurav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
