@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/leopardGaurav/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/leopardGaurav/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/leopardGaurav/Leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/leopardGaurav/Leetcode/tree/master/0912-sort-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/leopardGaurav/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/leopardGaurav/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/leopardGaurav/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/leopardGaurav/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/leopardGaurav/Leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/leopardGaurav/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/leopardGaurav/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
