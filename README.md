@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/leopardGaurav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/leopardGaurav/Leetcode/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/leopardGaurav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/leopardGaurav/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/leopardGaurav/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/leopardGaurav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/leopardGaurav/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/leopardGaurav/Leetcode/tree/master/0912-sort-an-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/leopardGaurav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/leopardGaurav/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/leopardGaurav/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/leopardGaurav/Leetcode/tree/master/0680-valid-palindrome-ii) |
