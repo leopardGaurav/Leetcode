@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/leopardGaurav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/leopardGaurav/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/leopardGaurav/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/leopardGaurav/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/leopardGaurav/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/leopardGaurav/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/leopardGaurav/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leopardGaurav/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/leopardGaurav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/leopardGaurav/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/leopardGaurav/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/leopardGaurav/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/leopardGaurav/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/leopardGaurav/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/leopardGaurav/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/leopardGaurav/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/leopardGaurav/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/leopardGaurav/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
